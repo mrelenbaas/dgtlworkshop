@@ -35,6 +35,7 @@
                     "export_extras" : 1,
                     "export_format" : "GLTF_SEPARATE",
                     "export_lights" : 1,
+                    "export_morph_tangent" : 1,
                     "export_tangents" : 1,
                     "export_texture_dir" : "",
                     "use_selection" : 0
